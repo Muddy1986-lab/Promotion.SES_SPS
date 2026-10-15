@@ -1,0 +1,163 @@
+{
+  "team": "SESTH_SPSTH",
+  "updatedAt": "12 Oct 2026",
+  "campaignPeriod": "5 ต.ค. – 1 พ.ย. 2569",
+  "announcement": "โปรโมชั่นอาจเปลี่ยนแปลงได้ โปรดตรวจสอบเงื่อนไขและสิทธิ์ก่อนทำรายการ",
+  "studentCampaign": {
+    "title": "Student Promotion",
+    "period": "5 ต.ค. – 1 พ.ย. 2569",
+    "description": "สำหรับนักเรียน นักศึกษา และบุคลากรทางการศึกษา",
+    "terms": [
+      "แสดงหลักฐานสถานะนักเรียน/นักศึกษาหรือบุคลากรตามที่ช่องทางจำหน่ายกำหนด",
+      "ส่วนลดและของแถมขึ้นกับรุ่น สต็อก และเงื่อนไขของแคมเปญ",
+      "ไม่สามารถใช้ร่วมกับบางโปรโมชันได้ โปรดตรวจสอบก่อนสั่งซื้อ"
+    ]
+  },
+  "products": [
+    {
+      "category": "S Series",
+      "model": "Galaxy S26 Ultra",
+      "variant": "12GB / 256GB",
+      "rrp": 46900,
+      "price": 43900,
+      "discount": 3000,
+      "gift": "โปรแกรมแลกซื้อ / ของแถมตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "S Series",
+      "model": "Galaxy S26+",
+      "variant": "12GB / 256GB",
+      "rrp": 39900,
+      "price": 36900,
+      "discount": 3000,
+      "gift": "ของแถมตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "S Series",
+      "model": "Galaxy S26",
+      "variant": "12GB / 256GB",
+      "rrp": 29900,
+      "price": 26900,
+      "discount": 3000,
+      "gift": "ของแถมตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "S Series",
+      "model": "Galaxy S25 FE",
+      "variant": "8GB / 256GB",
+      "rrp": 22900,
+      "price": 19900,
+      "discount": 3000,
+      "gift": "ส่วนลดเพิ่มเติมอาจขึ้นกับช่องทางจำหน่าย",
+      "student": true
+    },
+    {
+      "category": "Z Series",
+      "model": "Galaxy Z Fold7",
+      "variant": "12GB / 256GB",
+      "rrp": 65900,
+      "price": 57900,
+      "discount": 8000,
+      "gift": "ของแถมและสิทธิ์แลกซื้อ ตามเงื่อนไข",
+      "student": false
+    },
+    {
+      "category": "Z Series",
+      "model": "Galaxy Z Flip7",
+      "variant": "12GB / 256GB",
+      "rrp": 42900,
+      "price": 37900,
+      "discount": 5000,
+      "gift": "ของแถมตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "A Series",
+      "model": "Galaxy A57 5G",
+      "variant": "8GB / 256GB",
+      "rrp": 19999,
+      "price": 16999,
+      "discount": 3000,
+      "gift": "โปรแกรมแลกซื้อ / ของแถมตามเงื่อนไข",
+      "student": true
+    },
+    {
+      "category": "A Series",
+      "model": "Galaxy A37 5G",
+      "variant": "8GB / 128GB",
+      "rrp": 17999,
+      "price": 14999,
+      "discount": 3000,
+      "gift": "ของแถมตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "A Series",
+      "model": "Galaxy A07",
+      "variant": "4GB / 128GB",
+      "rrp": 4999,
+      "price": 3999,
+      "discount": 1000,
+      "gift": "โปรโมชันอาจแตกต่างตามช่องทางจำหน่าย",
+      "student": true
+    },
+    {
+      "category": "Tablet",
+      "model": "Galaxy Tab S11 Ultra 5G",
+      "variant": "12GB / 256GB",
+      "rrp": 53900,
+      "price": 53900,
+      "discount": 0,
+      "gift": "Slim Cover Keyboard ตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "Tablet",
+      "model": "Galaxy Tab S11+ 5G",
+      "variant": "12GB / 256GB",
+      "rrp": 46900,
+      "price": 46900,
+      "discount": 0,
+      "gift": "Slim Cover Keyboard ตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "Tablet",
+      "model": "Galaxy Tab S10 FE Wi-Fi",
+      "variant": "8GB / 128GB",
+      "rrp": 19900,
+      "price": 17900,
+      "discount": 2000,
+      "gift": "Keyboard / Book Cover ตามเงื่อนไขแคมเปญ",
+      "student": true
+    },
+    {
+      "category": "Wearable",
+      "model": "Galaxy Watch Ultra",
+      "variant": "47mm LTE",
+      "rrp": 24900,
+      "price": 19900,
+      "discount": 5000,
+      "gift": "สิทธิ์ MBO / ส่วนลดเพิ่มเติมตามเงื่อนไข",
+      "student": false
+    },
+    {
+      "category": "Wearable",
+      "model": "Galaxy Buds4 Pro",
+      "variant": "Standard",
+      "rrp": 7990,
+      "price": 6392,
+      "discount": 1598,
+      "gift": "ส่วนลดตามแคมเปญ",
+      "student": false
+    }
+  ],
+  "terms": [
+    "ราคาและส่วนลดในเว็บไซต์นี้เป็นข้อมูลตัวอย่างสำหรับโครงสร้างเว็บไซต์ โดยอ้างอิงแนวทางจากภาพที่แนบมา ไม่ใช่การยืนยันราคาอย่างเป็นทางการ",
+    "ตรวจสอบราคาล่าสุด สต็อก ของแถม และเงื่อนไขกับผู้ดูแลแคมเปญก่อนสื่อสารกับลูกค้า",
+    "การใช้สิทธิ์อาจแตกต่างตามช่องทางจำหน่าย รุ่น ความจุ และสถานะผู้ซื้อ"
+  ]
+}

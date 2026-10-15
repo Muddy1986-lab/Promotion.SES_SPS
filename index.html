@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0875e1"><title>Samsung Promotion | SESTH · SPSTH</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar"><a class="brand" href="#"><span class="brand-mark">S</span><span>SAMSUNG <small>SESTH · SPSTH</small></span></a><nav><a href="#promotions">โปรโมชั่น</a><a href="#student">Student Campaign</a><a href="#terms">เงื่อนไข</a><a class="admin-link" href="admin.html">Admin ↗</a></nav></header>
+<main>
+<section class="hero"><div class="hero-copy"><span class="eyebrow">SESTH · SPSTH PROMOTION HUB</span><h1>Update Summary<br><em>Promotion</em></h1><p>รวมราคา ส่วนลด ของแถม และสิทธิพิเศษ Samsung ไว้ในที่เดียว</p><div class="hero-meta"><span class="live-dot"></span><span id="campaign-period">กำลังโหลดช่วงโปรโมชั่น…</span><span class="meta-divider"></span><span id="updated-at">อัปเดตล่าสุด —</span></div><a class="button button-yellow" href="#promotions">ดูโปรโมชั่นทั้งหมด <span>↓</span></a></div><div class="hero-art"><div class="blue-orb"></div><div class="phone phone-back"></div><div class="phone phone-front"><div class="phone-screen"><div class="lens"></div><div class="screen-glow"></div></div></div><div class="discount-chip">SPECIAL<br><b>DEALS</b></div><div class="floating-star">✦</div></div></section>
+<section class="quick-stats"><div><span class="stat-number" id="product-count">—</span><span>รายการสินค้า</span></div><div><span class="stat-number">5</span><span>หมวดหมู่หลัก</span></div><div><span class="stat-number">01</span><span>แหล่งรวมโปรโมชั่น</span></div><div class="stats-note">ข้อมูลสำหรับทีมขาย<br><b>อ้างอิงก่อนเสนอขายทุกครั้ง</b></div></section>
+<section class="section" id="promotions"><div class="section-heading"><div><span class="eyebrow blue">PROMOTION CATALOG</span><h2>ค้นหาโปรโมชั่น</h2><p>ค้นหาด้วยชื่อรุ่น หมวดหมู่ หรือความจุ</p></div><div class="result-count" id="result-count">กำลังโหลด…</div></div>
+<div class="filters"><label class="searchbox"><span>⌕</span><input id="search" type="search" placeholder="ค้นหารุ่น เช่น Galaxy S26 Ultra…" autocomplete="off"></label><select id="category-filter" aria-label="เลือกหมวดหมู่"><option value="">ทุกหมวดหมู่</option></select><select id="sort-filter" aria-label="เรียงลำดับ"><option value="recommended">เรียงตามรายการแนะนำ</option><option value="discount">ส่วนลดมาก → น้อย</option><option value="price-asc">ราคาต่ำ → สูง</option><option value="price-desc">ราคาสูง → ต่ำ</option></select><label class="check-filter"><input id="student-filter" type="checkbox"> Student Campaign</label></div>
+<div class="category-pills" id="category-pills"></div><div class="product-grid" id="product-grid"><div class="loading-card">กำลังโหลดโปรโมชั่น…</div></div><div class="empty-state" id="empty-state" hidden>ไม่พบสินค้าที่ตรงกับคำค้นหา ลองเปลี่ยนคำค้นหรือหมวดหมู่</div>
+</section>
+<section class="student-section" id="student"><div class="student-visual"><img src="assets/student-promotion-banner.jpg" alt="Samsung Student Promotion reference banner" loading="lazy"></div><div class="student-copy"><span class="eyebrow">EXCLUSIVE BENEFITS</span><h2>Student<br><em>Promotion</em></h2><p id="student-description">สิทธิพิเศษสำหรับนักเรียน นักศึกษา และบุคลากรทางการศึกษา</p><div class="period-pill" id="student-period">—</div><ul id="student-terms"></ul><a class="button button-white" href="#promotions" id="student-view">ดูสินค้าที่ร่วมรายการ <span>→</span></a></div></section>
+<section class="reference-section"><div class="reference-copy"><span class="eyebrow blue">TEAM REFERENCE</span><h2>ข้อมูลโปรโมชัน<br>สำหรับทีมงาน</h2><p>ใช้หน้าจอนี้เพื่อค้นหาราคาและเงื่อนไขอย่างรวดเร็ว หากพบข้อมูลไม่ตรงกับประกาศล่าสุด ให้ยึดประกาศจากผู้ดูแลแคมเปญเป็นหลัก</p><a class="text-link" href="admin.html">ไปหน้า Admin เพื่อจัดการข้อมูล ↗</a></div><img src="assets/promotion-update-banner.jpg" alt="Samsung Update Summary Promotion" loading="lazy"></section>
+<section class="terms-section" id="terms"><div><span class="eyebrow blue">PLEASE NOTE</span><h2>เงื่อนไขสำคัญ</h2></div><ol id="general-terms"></ol></section>
+</main>
+<footer><a class="brand footer-brand" href="#"><span class="brand-mark">S</span><span>SAMSUNG <small>SESTH · SPSTH</small></span></a><span>Promotion Hub · สำหรับการใช้งานภายในทีม</span><span id="footer-updated">Last update —</span></footer>
+<script src="app.js"></script>
+</body></html>
